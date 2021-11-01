@@ -1,0 +1,5 @@
+npm run start
+Versiones de node -> nvm ls
+
+Para usar babel y que lo transforme a la version que esté en el fichero -> 
+	node_modules/babel-cli/bin/babel.js src/index.js --out-file compilado.js
